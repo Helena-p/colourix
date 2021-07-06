@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/colourix/static/css/main.1809a053.chunk.css",
+    "main.js": "/colourix/static/js/main.7b5beeb9.chunk.js",
+    "main.js.map": "/colourix/static/js/main.7b5beeb9.chunk.js.map",
+    "runtime-main.js": "/colourix/static/js/runtime-main.8dafce2b.js",
+    "runtime-main.js.map": "/colourix/static/js/runtime-main.8dafce2b.js.map",
+    "static/js/2.42a8ae71.chunk.js": "/colourix/static/js/2.42a8ae71.chunk.js",
+    "static/js/2.42a8ae71.chunk.js.map": "/colourix/static/js/2.42a8ae71.chunk.js.map",
+    "static/js/3.53646b77.chunk.js": "/colourix/static/js/3.53646b77.chunk.js",
+    "static/js/3.53646b77.chunk.js.map": "/colourix/static/js/3.53646b77.chunk.js.map",
+    "index.html": "/colourix/index.html",
+    "static/css/main.1809a053.chunk.css.map": "/colourix/static/css/main.1809a053.chunk.css.map",
+    "static/js/2.42a8ae71.chunk.js.LICENSE.txt": "/colourix/static/js/2.42a8ae71.chunk.js.LICENSE.txt",
+    "static/media/ColourixLogo.2fae8ed0.svg": "/colourix/static/media/ColourixLogo.2fae8ed0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dafce2b.js",
+    "static/js/2.42a8ae71.chunk.js",
+    "static/css/main.1809a053.chunk.css",
+    "static/js/main.7b5beeb9.chunk.js"
+  ]
+}
